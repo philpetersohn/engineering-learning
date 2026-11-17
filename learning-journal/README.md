@@ -22,3 +22,4 @@ Never overwrite the original answer when improving it.
 ## Entries
 
 - [Progress snapshot — 2026-11-16](2026-11-16-progress-snapshot.md)
+- [Full-stack learning priorities — 2026-11-17](2026-11-17-fullstack-priorities.md)
